@@ -1,9 +1,0 @@
-{
-  "miniprogramRoot": "./",
-  "projectname": "下拉式筛选菜单重构",
-  "appid": "touristappid",
-  "setting": {
-    "es6": false,
-    "minified": false
-  }
-}
